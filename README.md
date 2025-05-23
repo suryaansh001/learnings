@@ -1,1 +1,1 @@
-# learnings
+# learning_rust
